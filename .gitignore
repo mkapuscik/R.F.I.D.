@@ -1,19 +1,10 @@
 # Ignore list for Eagle, a PCB layout tool
 
 # Backup files
-*.s#?
-*.b#?
-*.l#?
+*.zip
 
-# Eagle project file
-# It contains a serial number and references to the file structure
-# on your computer.
-# comment the following line if you want to have your project file included.
-eagle.epf
-
-# Autorouter files
-*.pro
-*.job
+# Excel
+*.xls
 
 # CAM files
 *.$$$
@@ -27,6 +18,15 @@ eagle.epf
 *.crc
 *.crs
 
+# Altium extra project files
+*.prjpcbstructure
+_Previews/*
+*/_Previews/*
+History/*
+Pictures/
+"Project Logs for 5VPointofloadPSU"/*
+
+
 *.dri
 *.drl
 *.gpi
@@ -35,10 +35,8 @@ eagle.epf
 *.drd
 *.drd.*
 
-*.info
 
-*.eps
-
-# file locks introduced since 7.x
-*.lck
-
+*/Gerber/__Previews/
+*/NC Drill/__Previews/
+*/__Previews/
+__Previews/

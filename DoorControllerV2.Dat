@@ -1,0 +1,28 @@
+Field=Comment~String~Comment~52|Field=Description~String~Description~52|Field=Designator~String~Designator~84|Field=Footprint~String~Footprint~49|Field=LibRef~String~LibRef~49|Field=Manufacturer 1~String~Manufacturer 1~49|Field=Manufacturer Part Number 1~String~Manufacturer Part Number 1~49|Field=Quantity~Integer~Quantity~49|Field=Supplier 1~String~Supplier 1~58|Field=Supplier Currency 1~String~Supplier Currency 1~48|Field=Supplier Order Qty 1~Integer~Supplier Order Qty 1~26|Field=Supplier Part Number 1~String~Supplier Part Number 1~116|Field=Supplier Stock 1~Integer~Supplier Stock 1~23|Field=Supplier Subtotal 1~Float~Supplier Subtotal 1~23|Field=Supplier Unit Price 1~Float~Supplier Unit Price 1~23|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~DoorControllerV2.PrjPCB|ReportField=ProjectFullPath~C:\Users\Mike\Dropbox\Hardware\Door Controller V2\DoorControllerV2.PrjPCB|ReportField=Title~Bill of Materials For Project [DoorControllerV2.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~54|ReportField=ReportTime~8:09:10 PM|ReportField=ReportDate~3/28/2015|ReportField=ReportDateTime~3/28/2015 8:09:10 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~3/28/2015|ReportField=CurrentTime~8:08:40 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Mike\Dropbox\Hardware\Door Controller V2\DoorControllerv2.SchDoc|ReportField=DocumentName~DoorControllerv2.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~3/28/2015|ReportField=Organization~|ReportField=ProjectName~DoorControllerV2.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~DoorControllerV2.PrjPCB|ReportField=DataSourceFullPath~C:\Users\Mike\Dropbox\Hardware\Door Controller V2\DoorControllerV2.PrjPCB
+Cap Pol3|Polarized Capacitor (Surface Mount)|C1, C2, C3, C4, C5|C0805|Cap Pol3|||5|||||||
+Cap Pol3|Polarized Capacitor (Surface Mount)|C6, C7, C8|C2225|Cap Pol3|||3|||||||
+Cap Semi|Capacitor (Semiconductor SIM Model)|C9, C10|1608[0603]|Cap Semi|||2|||||||
+Decoupling|Capacitor (Semiconductor SIM Model)|C11, C12, C13, C14|1608[0603]|Cap Semi|||4|||||||
+SK33A|Schottky Diode|D1|SMB|D Schottky|||1|||||||
+LED1|Typical BLUE SiC LED|D2|3.5X2.8X1.9|LED3|||1|||||||
+Status1|Typical INFRARED GaAs LED|D3|0603 LED|LED0|||1|||||||
+Status2|Typical INFRARED GaAs LED|D4|0603 LED|LED0|||1|||||||
+Power|Typical INFRARED GaAs LED|D5|0603 LED|LED0|||1|||||||
+8P8 MagJack||E1|HR911105|8P8 MagJack|||1|||||||
+PWR2.5|Low Voltage Power Supply Connector|J1|KLD-0202|PWR2.5|||1|||||||
+Programmer|Header, 6-Pin|P1|HDR1X6|Header 6|||1|||||||
+Header 8|Header, 8-Pin|P2|HDR1X8|Header 8|||1|||||||
+Motor|Header, 4-Pin|P3|HDR1X4|Header 4|||1|||||||
+Header 6|Header, 6-Pin|P4|HDR1X6|Header 6|||1|||||||
+Battery Input|Header, 2-Pin|P5|HDR1X2|Header 2|||1|||||||
+RFID|Header, 8-Pin|P6|HDR1X8|Header 8|||1|||||||
+NFET|30V 3.4A N channel HEXFET|Q1, Q2, Q3, Q4|SOT-23_M|AO3418|||4|||||||
+Res3|Resistor|R1, R2, R3, R10, R12, R13, R14, R15, R16, R17, R18|J1-0603|Res3|||11|||||||
+Termination|Resistor|R4, R5, R6, R7|J1-0603|Res3|||4|Digi-Key||||||
+Current Limit|Resistor|R8, R9|J1-0603|Res3|||2|||||||
+|Resistor|R11|J1-0603|Res3|||1|||||||
+PIC18F67J60-I/PT|High Performance, 1-Mbit Flash Microcontroller with Ethernet, 128K Flash, 64-Pin TQFP, Industrial Temperature Range|U1|TQFP-PT64_N|PIC18F67J60-I/PT|Microchip Technology|PIC18F67J60-I/PT|1|Digi-Key|USD|1|PIC18F67J60-I/PT-ND|1899|5.46|5.46
+TLE4476||U2|P-TO252-5-1|TLE4476|Infineon Technologies|TLE4476D|1|Digi-Key|USD|1|TLE4476DCT-ND|0|0|0.00
+MCP73213-A6AI/MF|Dual-Cell Li-Ion / Li-Polymer Battery Charge Management Controller with OVP, 13V, 10-Pin DFN, Industrial Temperature|U3|DFN-MF10|MCP73213-A6AI/MF|||1|||||||
+1.8A H-Bridge|1.8A H0bridge with integrated motor drive FETs|U4|S-PWSON-N8|DRV8837 H-Bridge|Texas Instruments|DRV8837DSGR|1|Digi-Key|USD|1|296-34806-1-ND|14157|1.46|1.46
+XTAL|Crystal Oscillator|Y1|CSM-3X|XTAL|ECS Inc|ECS-250-20-3X-TR|1|Digi-Key|USD|1|XC1781CT-ND|23656|0.53|0.53

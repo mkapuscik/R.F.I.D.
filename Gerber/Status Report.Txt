@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [doorcontrollerv2.PcbDoc]
+   Generated File[doorcontrollerv2.TXT]
+   Generated File[doorcontrollerv2.LDP]
+   Generated File[doorcontrollerv2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:44:28 PM On 8/12/2015
